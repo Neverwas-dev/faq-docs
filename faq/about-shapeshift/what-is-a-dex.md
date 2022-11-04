@@ -4,7 +4,7 @@ If you're familiar with the crypto world you probably have heard of a "DEX". But
 
 The process of executing a trade is completely autonomous and does not require any personal info or verification. You read that last part right; no more entering your email or other personal information before you can execute certain trades on ShapeShift.
 
-![Crypto trading on Shapeshift is decentralized](<../../.gitbook/assets/image (13) (1).png>)
+![Our platform is commited to becoming completly Decentralized](<../../.gitbook/assets/image (13) (1).png>)
 
 ## How Does This Work On ShapeShift?
 
